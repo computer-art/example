@@ -38,7 +38,7 @@ There is an `images` folder with `3 sub-folders`
 - `/images/bodies`
 - `/images/faces`
 
-Inside `each sub0folder` there is a few `transparent png files` named with `2-left pad zero` strategy, for example: `01.png`, `02.png`, `...`, `11.png`
+Inside `each sub-folder` there is a few `transparent png files` named with `2-left pad zero` strategy, for example: `01.png`, `02.png`, `...`, `11.png`
 
 ## Script Strategy
 
