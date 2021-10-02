@@ -54,11 +54,11 @@ for index_background in range(1, kBackgrounds + 1):
                 exit(-1)
 
             if not os.path.exists(body):
-                print("file not exists", background)
+                print("file not exists", body)
                 exit(-1)
 
             if not os.path.exists(face):
-                print("file not exists", background)
+                print("file not exists", face)
                 exit(-1)
 
             # load the images
